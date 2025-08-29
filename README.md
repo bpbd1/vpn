@@ -1,5 +1,3 @@
-# vpn
-
 # INSTAL VPN SERVER PREMIUM PRIBADI DI VPS
 ==============================================
 BAGIAN 1
