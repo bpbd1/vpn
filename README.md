@@ -8,7 +8,7 @@ apt install wget
  ```
 JALANKAN SCRIPT
  ```
-wget https://github.com/bpbd1/vpn/blob/main/vpnsetup.sh
+wget https://github.com/bpbd1/vpn/releases/download/vpn/vpnsetup.sh
  ```
 BAGIAN 2
 EDIT USERNAME & PASWORD
